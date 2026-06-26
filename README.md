@@ -152,4 +152,4 @@ This shot labs helped sharpen my practical understanding of how to ingest data t
 
 Now that my mission to connect and ingest data to Microsoft Sentinel using Data connectors as objective one has been accomplished, I advanced to objective 2.
 
-In my next project, I will be connecting data from Windows virtual machines inside and outside of Azure, like on-premises environments or other Public Clouds as the next source of data.
+In my next project for objective two, I will be connecting data from Windows virtual machines inside and outside of Azure, like on-premises environments or other Public Clouds as the next source of data.
